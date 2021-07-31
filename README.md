@@ -24,6 +24,9 @@ F6::SetTransparency(50) ;toggle on off with transparency degree of 50
 F7::SetTransparency(200, true) ;turn on with transparency degree of 200
 F8::SetTransparency(, false) ;turn off
 ```
+Consult the [AHK documentation](https://www.autohotkey.com/docs/Hotkeys.htm) for a tutorial on defining hotkeys.
+
+---
 
 The script also comes with two hotstrings, one to get a test notification and one to exit the script:  
 * Type "cooltestnotification" anywhere on your computer to get a test notification
